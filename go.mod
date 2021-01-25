@@ -1,0 +1,8 @@
+module public-go
+
+go 1.15
+
+require (
+	github.com/cespare/xxhash v1.1.0
+	golang.org/x/crypto v0.0.0-20201221181555-eec23a3978ad
+)
